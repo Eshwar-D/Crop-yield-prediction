@@ -1,0 +1,19 @@
+{
+    "categorical_features": [
+        "Crop",
+        "SoilType"
+    ],
+    "numeric_features": [
+        "Rainfall",
+        "Temperature",
+        "Humidity",
+        "Soil_pH",
+        "Nitrogen",
+        "Phosphorus",
+        "Potassium",
+        "Fertilizer",
+        "Irrigation",
+        "SunshineHours"
+    ],
+    "target_column": "Yield"
+}

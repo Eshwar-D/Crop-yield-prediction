@@ -1,0 +1,38 @@
+{
+    "Linear Regression": {
+        "mae": 2.0544,
+        "mse": 11.998,
+        "rmse": 3.4638,
+        "r2_score": 0.9775,
+        "actual_vs_predicted_plot": "F:\\ESH049\\crop_yield_prediction_project\\models\\linear_regression_actual_vs_predicted.png",
+        "residual_plot": "F:\\ESH049\\crop_yield_prediction_project\\models\\linear_regression_residual_plot.png",
+        "feature_importance_csv": null
+    },
+    "Decision Tree": {
+        "mae": 1.2531,
+        "mse": 10.9964,
+        "rmse": 3.3161,
+        "r2_score": 0.9794,
+        "actual_vs_predicted_plot": "F:\\ESH049\\crop_yield_prediction_project\\models\\decision_tree_actual_vs_predicted.png",
+        "residual_plot": "F:\\ESH049\\crop_yield_prediction_project\\models\\decision_tree_residual_plot.png",
+        "feature_importance_csv": "F:\\ESH049\\crop_yield_prediction_project\\models\\decision_tree_feature_importance.csv"
+    },
+    "Random Forest": {
+        "mae": 1.1074,
+        "mse": 7.8826,
+        "rmse": 2.8076,
+        "r2_score": 0.9852,
+        "actual_vs_predicted_plot": "F:\\ESH049\\crop_yield_prediction_project\\models\\random_forest_actual_vs_predicted.png",
+        "residual_plot": "F:\\ESH049\\crop_yield_prediction_project\\models\\random_forest_residual_plot.png",
+        "feature_importance_csv": "F:\\ESH049\\crop_yield_prediction_project\\models\\random_forest_feature_importance.csv"
+    },
+    "Gradient Boosting": {
+        "mae": 1.1651,
+        "mse": 7.7422,
+        "rmse": 2.7825,
+        "r2_score": 0.9855,
+        "actual_vs_predicted_plot": "F:\\ESH049\\crop_yield_prediction_project\\models\\gradient_boosting_actual_vs_predicted.png",
+        "residual_plot": "F:\\ESH049\\crop_yield_prediction_project\\models\\gradient_boosting_residual_plot.png",
+        "feature_importance_csv": "F:\\ESH049\\crop_yield_prediction_project\\models\\gradient_boosting_feature_importance.csv"
+    }
+}

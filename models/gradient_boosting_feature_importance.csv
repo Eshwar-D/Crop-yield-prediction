@@ -1,0 +1,16 @@
+Feature,Importance
+categorical__Crop_Sugarcane,0.9694113201437885
+categorical__SoilType_Sandy,0.009256531811062492
+numeric__SunshineHours,0.005746307460903825
+categorical__SoilType_Red,0.0029079883050784463
+numeric__Fertilizer,0.0017089122337429583
+numeric__Irrigation,0.0016577152392670614
+numeric__Rainfall,0.0015293002323949181
+categorical__SoilType_Loamy,0.0014007502562861788
+categorical__SoilType_Black,0.0013016477590740007
+numeric__Soil_pH,0.0010254431091657635
+numeric__Temperature,0.0008485212349512312
+categorical__Crop_Maize,0.00046293605638304494
+categorical__Crop_Cotton,0.00041810818956691223
+numeric__Humidity,0.0004116873374624745
+categorical__Crop_Groundnut,0.00038697852999724374

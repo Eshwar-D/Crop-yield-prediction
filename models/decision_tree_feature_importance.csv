@@ -1,0 +1,16 @@
+Feature,Importance
+categorical__Crop_Sugarcane,0.972379807838378
+categorical__SoilType_Sandy,0.010144453408914575
+numeric__SunshineHours,0.0053083800638779165
+categorical__SoilType_Red,0.004089885531371208
+numeric__Fertilizer,0.0013973884758096788
+numeric__Temperature,0.001032235192728738
+numeric__Irrigation,0.0008170467791455652
+categorical__SoilType_Clay,0.0007828102869749949
+numeric__Nitrogen,0.0007321960054586383
+categorical__Crop_Maize,0.0006816240987341507
+categorical__Crop_Rice,0.0005089269000003937
+numeric__Humidity,0.00042646857455771656
+numeric__Phosphorus,0.00036334214126077365
+categorical__Crop_Wheat,0.00035725671083031624
+numeric__Potassium,0.0003460916833934056
