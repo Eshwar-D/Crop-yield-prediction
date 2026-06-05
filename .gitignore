@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+models/*.pkl
+models/*.json
+models/*.png
+models/*.csv
+data/*.csv

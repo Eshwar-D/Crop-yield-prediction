@@ -1,0 +1,4 @@
+FarmID,Crop,SoilType,Rainfall,Temperature,Humidity,Soil_pH,Nitrogen,Phosphorus,Potassium,Fertilizer,Irrigation,SunshineHours
+FARM_QUERY_001,Rice,Clay,1180,27.5,76,6.5,85,45,52,125,680,6.8
+FARM_QUERY_002,Wheat,Loamy,640,22.1,62,7.1,70,35,40,95,420,7.1
+FARM_QUERY_003,Maize,Alluvial,780,25.8,68,6.6,90,50,55,115,510,7.4

@@ -1,0 +1,27 @@
+Place crop yield CSV dataset here.
+
+Required columns:
+
+Crop
+SoilType
+Rainfall
+Temperature
+Humidity
+Soil_pH
+Nitrogen
+Phosphorus
+Potassium
+Fertilizer
+Irrigation
+SunshineHours
+Yield
+
+Optional column:
+FarmID
+
+Target:
+Yield
+
+You can also generate a demo dataset using:
+
+python src/create_demo_dataset.py
